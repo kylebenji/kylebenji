@@ -1,5 +1,2 @@
 # Hi, I’m Kyle!
-I'm a web developer using this space to run version control for projects and portfolios. I primarily work with Javascript right now, although I have worked with SQL, MUMPS, C++, and Java in the past.
-- 🌱 I’m currently learning advanced webpage manipulation using Javascript, which I am honing alongside my CSS and HTML skills
-- 💞️ I’m looking to collaborate on interesting projects where I can make a difference! I have interests in the streaming and games space, but I would be happy to work on an application or site where I can provide tools to help users get what they need.
-- 📫 Reach me at my attached LinkedIn profile or at kylebduval@gmail.com.
+I'm a web application developer working primarily with Javascript, Node.js, and Next.js systems. My appliation experience focuses on Developer and Insfrastructure tools for users in the FileMaker Community.
